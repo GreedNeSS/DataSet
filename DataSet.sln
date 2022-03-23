@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlDataAdapterAndDataSet", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSetWithoutDatabase", "DataSetWithoutDatabase\DataSetWithoutDatabase.csproj", "{32A22D97-5CF5-4AEC-86D7-61E5EA2959FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavingDataSetChangesToTheDatabase", "SavingDataSetChangesToTheDatabase\SavingDataSetChangesToTheDatabase.csproj", "{9F5CFB25-86B2-4AFD-92F3-24670FE6DDD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{32A22D97-5CF5-4AEC-86D7-61E5EA2959FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32A22D97-5CF5-4AEC-86D7-61E5EA2959FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32A22D97-5CF5-4AEC-86D7-61E5EA2959FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5CFB25-86B2-4AFD-92F3-24670FE6DDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5CFB25-86B2-4AFD-92F3-24670FE6DDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5CFB25-86B2-4AFD-92F3-24670FE6DDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5CFB25-86B2-4AFD-92F3-24670FE6DDD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
